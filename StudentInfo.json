@@ -1,0 +1,12 @@
+
+   {
+     "FirstName":   "Girish",
+    "UserName":    "gmailusername",
+    "Password":    "gmailpassword",
+    "EmailServer": "smtp.gmail.com",
+    "Port":        587,
+    "LinkedIn":    "https://www.linkedin.com/in/girishsg24/",
+    "GitHub":      "https://github.com/girishsg24", 
+    "Resume": "/Users/girish/Girish_Resume.pdf",
+    "Target": "Internship/Full-Time"
+   }
