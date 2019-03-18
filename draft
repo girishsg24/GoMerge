@@ -1,0 +1,21 @@
+<p>Hello {{ .EmployeeFirstName }},</p>
+
+<p>Hope all is well with you! </p>
+
+<p>I'm {{.StudentFirstName}}, pursuing my Masters in Computer Networking from San Jose state university. I'm actively looking for full-time opportunities in Software Development/Automation.</p>
+
+<p>Summary:</p>
+
+<p> Total of 3+ years of software development and automation experience.   Solid understanding of C++, C, Python, Linux, Object-Oriented Programming &amp; Data Structures.  Proficient in networking protocol stack, CI/CD, cloud automation and Openstack core services  SDN Solutions Intern at Nokia (current): Cloud Automation and Dev-Ops for SDN products - 4 months  Research assistant at SJSU on open source SDN &amp; NFV technologies for building micro-services - 7 months  Network research Intern at a Startup (Asimily Inc): Developed Network packet parsers &amp; edge computing modules - 3 months  Software Intern at Trimble Navigation: Test Automation &amp; Platform Development - 4 months  Backend Software Developer at Mphasis Wyde: 2 and half years.  Advanced course work: SDN, NFV, Network Security, Cryptography, Neural Networks, Broadband communication &amp; Cloud Computing</p>
+
+<p>Kindly review my resume for more details about my technical expertise and academic projects. </p>
+
+<p>Could you please let me know if you have any opportunities for me.</p>
+
+<p>Thanks in advance.</p>
+
+<p>Regards, {{.StudentFirstName}}</p>
+
+<p>LinkedIn: {{.StudentLinkedIn}}</p>
+
+<p>GitHub: {{.StudentGitHub}} </p>
